@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258991571311",
+    "firebase_url": "https://chatapp-334ba.firebaseio.com",
+    "project_id": "chatapp-334ba",
+    "storage_bucket": "chatapp-334ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258991571311:android:7747a5bc20fe57f76e289a",
+        "android_client_info": {
+          "package_name": "com.kangkan.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258991571311-cau9e21387in6snnbbckq9oa0vbk4en1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kangkan.chatapp",
+            "certificate_hash": "f76b0968c43ede3d27e4d63bbcdb6c7791b5b1a7"
+          }
+        },
+        {
+          "client_id": "258991571311-vj1r7ecfehtq50liqmnk0dmu9s9l2j9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwjcA2KtpNu2Gr_LUy19fcYjk7OoNXrC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258991571311-vj1r7ecfehtq50liqmnk0dmu9s9l2j9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
